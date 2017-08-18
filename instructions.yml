@@ -1,0 +1,14 @@
+instructions: [
+    {
+        title: "Lorem Ipsum",
+        description: "Foo bar"
+    },
+    {
+        title: "This is a Hint",
+        description: "Hint hint hint",
+        hint: {
+            text: "Hint hint int",
+            cost: 15
+        }
+    }
+]

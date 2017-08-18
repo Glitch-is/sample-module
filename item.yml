@@ -1,0 +1,7 @@
+name: Hello World!
+alias: hello-world-lab
+type: lab
+url: hello-world
+points: 25
+flag: flag_blablablabla
+shared: false
